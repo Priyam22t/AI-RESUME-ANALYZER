@@ -1,5 +1,4 @@
 # 🚀 ResumeRadar AI – AI-Powered Resume Analyzer
-
 ResumeRadar AI is a full-stack AI-powered Resume Analysis platform built using React, Node.js, and Groq LLM (LLaMA 3.3).  
 
 It evaluates resumes for ATS compatibility, keyword match, skill breakdown, and generates AI-powered improvement suggestions and an optimized resume version.
